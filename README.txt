@@ -1,7 +1,4 @@
-Module: CS6102 – Graphics for Interactive Media
-Student Name: Eoghan Ó Riain
-Student Number: 111319036
-Assignment: Assignment 2 – Poster Composition
+The purpose of this project is to create a GIMP Plug-in to generate a Cork Jazz Weekend Poster.
 
 Please note that this assignment was completed using a Windows computer. Therefore, there may be permission issues in this plug-in if it is to be run in GIMP on an Apple device. This permission issue can be resolved in the computer’s terminal.
 
